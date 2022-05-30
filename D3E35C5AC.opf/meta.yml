@@ -1,0 +1,22 @@
+id: D3E35C5AC
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2022-02-24T10:23:18+00:00'
+last_modified: '2022-05-30T06:25:14.273276+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
+source_metadata:
+  base:
+    7d9d:
+      image_group_id: I1PD95960
+      title: མདོ་སྡེ་དགོངས་པ་ངེས་པར་འགྲེལ་པའི་མདོའི་རྣམ་པར་བཤད་པ།
+      total_pages: 1829
+      order: 115
+      base_file: 7d9d.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
